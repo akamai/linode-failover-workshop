@@ -1,5 +1,5 @@
 label = "example-lke-cluster"
-k8s_version = "1.23"
+k8s_version = "1.25"
 region = "us-west"
 pools = [
   {
@@ -7,4 +7,3 @@ pools = [
     count : 3
   }
 ]
-      
